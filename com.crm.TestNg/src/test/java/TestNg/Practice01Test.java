@@ -25,7 +25,7 @@ public class Practice01Test {
 	@Test(priority=1)
 	public void test3() {
 		System.out.println("From Tyss003");
-		System.out.println("welcome");
+		System.out.println("welcome to TestYantra");
 		
 	}
 	
