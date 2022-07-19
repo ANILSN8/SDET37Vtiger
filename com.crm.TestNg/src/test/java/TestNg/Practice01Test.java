@@ -25,6 +25,8 @@ public class Practice01Test {
 	@Test(priority=1)
 	public void test3() {
 		System.out.println("From Tyss003");
+		System.out.println("welcome");
+		
 	}
 	
 	@Test(priority=4)
