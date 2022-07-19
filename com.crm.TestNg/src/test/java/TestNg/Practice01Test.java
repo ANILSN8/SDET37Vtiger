@@ -32,7 +32,7 @@ public class Practice01Test {
 	@Test(priority=4)
 	public void test4() {
 		System.out.println("From Tyss004");
-		System.out.println("hello haai guys");
+		System.out.println("hello kranti");
 	}
 	
 	
